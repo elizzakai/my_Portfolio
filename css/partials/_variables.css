@@ -1,0 +1,22 @@
+html, body {
+    margin:0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+/* css vars */
+:root{
+    --primary-color:#4458dc;
+    --primary-color2:#4458dc;
+    --title-color: black;
+    --border-color:beige;
+    --gradient-color: linear-gradient(90deg, blue 0%, purple 100%);
+
+
+
+
+    /* font fam */
+    --inter:'Inter', cursive;
+
+}

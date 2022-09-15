@@ -1,0 +1,20 @@
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.button:hover {
+    background-color:lightcoral;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip:text;
+}
+
+.button {
+    background: whitesmoke;
+    margin: 3%;
+}
+
+
+body {
+    font-family: var(--inter);
+}
