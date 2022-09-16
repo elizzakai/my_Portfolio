@@ -1,10 +1,10 @@
 /* import comments from css file */
-@Import url("/css/fonts.css");
+@Import url("fonts.css");
 
 /* import url vars */
-@Import url("/css/partials/_variables.css");
+@Import url("partials/_variables.css");
 
-@Import url("/css/partials/_global.css");
+@Import url("partials/_global.css");
 
 /* start nav */
 
