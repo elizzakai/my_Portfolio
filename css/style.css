@@ -2,9 +2,9 @@
 @Import url("fonts.css");
 
 /* import url vars */
-@Import url("partials/_variables.css");
+@Import url("partials/vvariables.css");
 
-@Import url("partials/_global.css");
+@Import url("partials/gglobal.css");
 
 /* start nav */
 
@@ -98,7 +98,7 @@ body {
     padding: .4rem 0;
 }
 
-p.para {
+p .para {
     color: var(--title-color);
     font: normal 500 26px/40px var(--inter);
 }
