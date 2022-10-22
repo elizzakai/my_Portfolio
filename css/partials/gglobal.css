@@ -5,14 +5,17 @@
 
 
 .button:hover {
-    background-color:lightcoral;
+    /* color:brown; */
+    /* background-color:lightcoral; */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip:text;
 }
 
 .button {
-    background: whitesmoke;
+    /* background: whitesmoke; */
+    color: black;
+    background-color: lightgray;
     margin: 3%;
 }
 
